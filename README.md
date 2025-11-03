@@ -24,7 +24,7 @@ The analysis addresses three key business questions:
 
 - **🌍 Platform Strategy:**  
   What **geographic** and **product-level** patterns reveal strengths or weaknesses?  
-  Where are the logistical "hotspots" of failure, and which product categories are associated with the highest (and lowest) customer satisfaction?
+  Where are the logistical “hotspots” of failure, and which product categories are associated with the highest (and lowest) customer satisfaction?
 
 - **💬 To Capture the 'Voice of the Customer':**  
   To add a creative and powerful qualitative layer, by analyzing the most common phrases in **1-star reviews**, we will create a **"Word Cloud of Rage"** to visually support our quantitative findings.
@@ -36,13 +36,13 @@ The analysis addresses three key business questions:
 1. 🧩 To move from **9 raw, separate files** to a single, clean **"master analytical dataset."** This phase addresses the *complex cleaning* requirement head-on.  
 2. 📊 To translate raw data into powerful **business metrics (features)** and formulate the specific questions your analysis will answer.  
 3. 🤖 To use **statistical and machine learning techniques** to test your hypotheses and generate predictive insights.  
-4. 🖼️ To synthesize our findings into a clear, compelling **visual narrative** in the form of a **poster**.  
+4. 🖼️ To synthesize our findings into a clear, compelling **visual narrative** in the form of a **poster**.
 
 ---
 
 ## 🧹 Data Extraction & Cleaning  
 
-The data for this analysis is the **Brazilian E-Commerce Public Dataset by Olist**, sourced from **Kaggle**.  
+The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**. :contentReference[oaicite:0]{index=0}  
 This is a real-world, anonymized dataset capturing **100,000 orders** from **2016 to 2018**.  
 
 Its primary complexity lies in its relational structure: the data is spread across **nine separate CSV files** (covering orders, payments, reviews, customers, sellers, and products).  
@@ -52,4 +52,4 @@ To answer our key questions, we will employ a mix of **statistical** and **machi
 
 - Use **📈 Multiple Linear Regression** to quantify the precise impact of variables like `delivery_delay` and `freight_value` on the `review_score`.  
 - For customer segmentation, engineer features using **RFM (Recency, Frequency, Monetary)** analysis and apply **K-Means Clustering** to discover natural customer groupings.  
-- Finally, use **🗺️ Geospatial Analysis (GeoPandas)** to map seller/customer locations and operational delays, providing a powerful **visual story** of the platform's logistical performance across Brazil.
+- Finally, use **🗺️ Geospatial Analysis (GeoPandas)** to map seller/customer locations and operational delays, providing a powerful **visual story** of the platform’s logistical performance across Brazil.
