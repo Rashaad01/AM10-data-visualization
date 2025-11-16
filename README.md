@@ -55,3 +55,8 @@ We made key recommendations across the three key areas:
 reviews to improve clarity on true product quality.
 
 Data Source: The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
+
+## For full analysis
+git clone https://github.com/Rashaad01/AM10-data-visualization.git
+cd AM10-data-visualization
+
