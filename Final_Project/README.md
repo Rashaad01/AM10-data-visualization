@@ -9,15 +9,16 @@
 
 ## BACKGROUND 
 
-Every business venture is incentivized to grow in meeting its ultimate business strategies. This has not been a far fetched reality for Olist, a Brazilian e-commerce marketplace focused on ensuring produce accessibility to all consumers. As a year old venture, the company sought to connect small businesses with consumers while steering all operational logistics and delivery requirements. After an exponential growth in its early years, the CEO hired our team to recommend strategies towards their business objective:
+Every business venture is incentivized to scale in meeting its ultimate business strategies. This has not been a far-fetched reality for Olist, a Brazilian e-commerce marketplace focused on ensuring produce accessibility to all consumers. As a year old venture, the company sought to connect small businesses with consumers while steering all operational logistics and delivery requirements. After an exponential growth in its early years, the CEO hired our team to recommend strategies towards their business objective:
 
 **To triple revenue in the next two years**.
 
 ## PROJECT OBJECTIVES
-1. To synthesize **9 raw, separate files** into a single and clean **"analytical dataset."**  
-2. To translate the raw data into interpretable **business metrics (features)** and formulate the specific questions our analysis will answer.  
-3. To use **statistical and machine learning techniques** to test our hypotheses and generate predictive insights.  
-4. To synthesize our findings into a clear, compelling **visual narrative**.
+In a meeting with the CEO, the following project objectives were defined:
+
+1. Synthesize **9 raw, separate files** into a single and clean **"analytical dataset."**  
+2. Translate the raw data into interpretable **business metrics (features)** and address key questions on service quality & customer satisfaction, customer purchase behaviour and the ease of use of the Olist platform.
+3. Conduct in-depth analysis of the data to produce a compelling **visual narrative** on Olist's performance over the past 3 years, and define recommendations for revenue growth.
    
 ## DATA AND METHODOLOGY
 
