@@ -8,7 +8,7 @@
 ---
 
 ## REPOSITORY INFORMATION
-This repository contains an analysis of the transaction information for 100,000 orders of an e-commerce platform, Olist. It employs key analytical tools such as **...**, and presents thought-provoking insights for boosting revenue.
+This repository contains an analysis of the transaction information for 100,000 orders of an e-commerce platform, Olist. It employs key analytical tools such as **...**, and presents thought-provoking insights for boosting revenue. This analysis was performed by synthesizing **9 raw, separate files** into a single and clean **"analytical dataset."**
 
 ## BACKGROUND 
 
@@ -17,12 +17,12 @@ Every business venture is incentivized to scale in pursuit of its broader strate
 **What strategies can help Olist triple its revenue in two years?**
 
 ## PROJECT OBJECTIVES
-In a meeting with the CEO, the following project objectives were defined:
+In a meeting with the CEO, we aligned to explore the following questions:
 
-1) Synthesize **9 raw, separate files** into a single and clean **"analytical dataset."**
-2) Translate the raw data into interpretable **business metrics (features)** and address key questions on service quality & customer satisfaction, customer purchase behaviour and the ease of use of the Olist platform.
-3) Conduct in-depth analysis of the data to produce a compelling **visual narrative** on Olist's performance over the past 3 years, and define recommendations for revenue growth.
-4) Use **Geospatial Analysis (GeoPandas)** to map seller/customer locations and operational delays, providing a visualization of the platform’s logistical performance across Brazil.
+1) What has been Olist's business performance over the past 3 years?
+2) What drives negative customer experiences? Are these experiences uniform across all customer geographies?
+3) How often are repeat purchases across top product categories?
+4) What are the key drivers of customer loyalty and how does product categorization incentivise it?
    
 ## DATA AND METHODOLOGY
 
