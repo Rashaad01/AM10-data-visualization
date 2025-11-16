@@ -29,7 +29,7 @@ In a meeting with the CEO, the following project objectives were defined:
 3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer geographies and reviews. A **cluster analysis** was conducted to understand customer repeat purchasing habits.
    
 ## KEY FINDINGS
-​1) Logistics problem, and not product quality is the primary driver of negative customer experiences​. However, this problem is not uniform across all cities. Hence, we can ensure a targeted, regional intervention in high-priority cities​.
+​1. Logistics problem, and not product quality is the primary driver of negative customer experiences​. However, this problem is not uniform across all cities. Hence, we can ensure a targeted, regional intervention in high-priority cities​.
 
 2) Repeat purchases are extremely rare on Olist - but the few repeat customers come from home appliances, furniture and bedroom necessities.
 
