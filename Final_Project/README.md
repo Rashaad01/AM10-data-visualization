@@ -22,7 +22,7 @@ In a meeting with the CEO, the following project objectives were defined:
 4.  Use **Geospatial Analysis (GeoPandas)** to map seller/customer locations and operational delays, providing a visualization of the platform’s logistical performance across Brazil.
    
 ## DATA AND METHODOLOGY
-1) We received raw CSV files containing data on 100,000 orders, including information on products, order payments and items, sellers, and customers. To enable a comprehensive analysis, we imported these files into a database using DBeaver. Our inspection, cleaning, and exploration processes involved handling missing values, ensuring appropriate data types, examining product classifications within the dataset, and analyzing outliers to enhance the reliability of our results.
+1. We received raw CSV files containing data on 100,000 orders, including information on products, order payments and items, sellers, and customers. To enable a comprehensive analysis, we imported these files into a database using DBeaver. Our inspection, cleaning, and exploration processes involved handling missing values, ensuring appropriate data types, examining product classifications within the dataset, and analyzing outliers to enhance the reliability of our results.
    
 2) During our data exploration, we discovered that order volumes had stagnated, accompanied by an increase in negative customer reviews. This prompted a deeper analysis of all reviews, using a **word cloud** and a **proportional review assessment** (delivery-related vs. product-related reviews). We also employed **bar charts** and a **bubble chat** to examine customer repeat-purchase behavior, focusing on top product categories, preferred payment methods, and installment options.
 
