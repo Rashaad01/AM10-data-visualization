@@ -39,6 +39,10 @@ In a meeting with the CEO, the following project objectives were defined:
 
 4) We recognized that Olist has an highly inconsistent category system which hinders product performance across all categories.
 
-## CONCLUSION
+## RECOMMENDATIONS
+We made key recommendations across the three key areas:
+
+1) Service Delivery and Customer Satisfaction: Olist must focus on tailored delivery services for Rio de Janeiro and other low delivery performance areas.
+2) 
 
 
