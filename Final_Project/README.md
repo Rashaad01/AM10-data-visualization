@@ -49,4 +49,4 @@ We made key recommendations across the three key areas:
 3) Plaform Ease of Use: Olist must re-create a more intuitive category hierarchy to ease navigation.​ Additionally, delivery and product
 reviews to improve clarity on true product quality.
 
-
+Data Source: The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
