@@ -8,7 +8,7 @@
 ---
 
 ## REPOSITORY INFORMATION
-This repository contains an analysis of the transaction information for 100,000 orders of an e-commerce platform, Olist. It employs key analytical tools such as **python, numpy, seaborn, matplotlib, scipy.stats, word cloub and pandas**, and presents thought-provoking insights for boosting revenue. It synthesizes nine raw files into a single analytical dataset and employs SQL through DBeaver, Python, and visualization techniques to uncover insights for boosting revenue.
+This repository contains an analysis of the transaction information for 100,000 orders of an e-commerce platform, Olist. It employs key analytical tools such as **numpy, seaborn, matplotlib, scipy.stats, word cloub and pandas**, and presents thought-provoking insights for boosting revenue. It synthesizes nine raw files into a single analytical dataset and employs SQL through DBeaver, Python, and visualization techniques to uncover insights for boosting revenue.
 
 ## BACKGROUND 
 
