@@ -35,9 +35,6 @@ We aligned with the CEO to explore the following:
 
 **Data Source:** The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
 
-## PROJECT FILES
-- The python file entailing all codes is found here: 
-
 ## KEY FINDINGS AND RECOMMENDATIONS
 
 Key findings are found below:
