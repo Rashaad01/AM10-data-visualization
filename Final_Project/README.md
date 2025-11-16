@@ -23,11 +23,15 @@ In a meeting with the CEO, the following project objectives were defined:
    
 ## DATA AND METHODOLOGY
 1) We received raw CSV files containing data on 100,000 orders, including information on products, order payments and items, sellers, and customers. To enable a comprehensive analysis, we imported these files into a database using DBeaver. Our inspection, cleaning, and exploration processes involved handling missing values, ensuring appropriate data types, examining product classifications within the dataset, and analyzing outliers to enhance the reliability of our results.
-2) 
+   
+2) During our data exploration, we discovered that order volumes had stagnated, accompanied by an increase in negative customer reviews. This prompted a deeper analysis of all reviews, using a **word cloud** and a **proportional review assessment** (delivery-related vs. product-related reviews). We also employed **bar charts** and a **bubble chat** to examine customer repeat-purchase behavior, focusing on top product categories, preferred payment methods, and installment options.
 
+3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer and seller geographies.
+   
 ## KEY FINDINGS
+Our team had the following key discoveries:
 
 
-## RECOMMENDATIONS AND CONCLUSION
+## CONCLUSION
 
 
