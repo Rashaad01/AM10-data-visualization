@@ -9,9 +9,9 @@
 
 ## BACKGROUND 
 
-Every business venture is incentivized to scale in pursuit of its broader strategic objectives. For Olist, a Brazilian e-commerce marketplace dedicated to making products accessible to consumers, this is no different. As a young company, Olist aimed to connect small businesses with customers while managing all operational logistics and delivery requirements. After experiencing exponential growth in its early years, the CEO engaged our team to recommend strategies that would support their next major business objective:
+Every business venture is incentivized to scale in pursuit of its broader strategic objectives. For Olist, a Brazilian e-commerce marketplace dedicated to making products accessible to consumers, this is no different. As a young company, Olist aimed to connect small businesses with customers while managing all operational logistics and delivery requirements. After experiencing exponential growth in its early years, the CEO engaged our team to answer a core question:
 
-To triple revenue within the next two years.
+**What strategies can help Olist triple its revenue in two years?**
 
 ## PROJECT OBJECTIVES
 In a meeting with the CEO, the following project objectives were defined:
@@ -29,7 +29,7 @@ In a meeting with the CEO, the following project objectives were defined:
 3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer and seller geographies.
    
 ## KEY FINDINGS
-Our team had the following key discoveries:
+
 
 
 ## CONCLUSION
