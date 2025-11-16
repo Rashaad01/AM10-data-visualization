@@ -7,6 +7,9 @@
 
 ---
 
+## REPOSITORY INFORMATION
+This repository contains an analysis of the transaction information for 100,000 orders of an e-commerce platform, Olist. It employs key analytical tools such as **...**, and presents thought-provoking insights for boosting revenue.
+
 ## BACKGROUND 
 
 Every business venture is incentivized to scale in pursuit of its broader strategic objectives. For Olist, a Brazilian e-commerce marketplace dedicated to making products accessible to consumers, this is no different. As a young company, Olist aimed to connect small businesses with customers while managing all operational logistics and delivery requirements. After experiencing exponential growth in its early years, the CEO engaged our team to answer a core question:
@@ -28,6 +31,8 @@ In a meeting with the CEO, the following project objectives were defined:
 2) During our data exploration, we discovered that order volumes had stagnated, accompanied by an increase in negative customer reviews. This prompted a deeper analysis of all reviews, using a **word cloud** and a **proportional review assessment** (delivery-related vs. product-related reviews). We also employed **bar charts** and a **bubble chat** to examine customer repeat-purchase behavior, focusing on top product categories, preferred payment methods, and installment options.
    
 3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer geographies and reviews. A **cluster analysis** was conducted to understand customer repeat purchasing habits.
+
+## PROJECT FILES
    
 ## KEY FINDINGS
 
