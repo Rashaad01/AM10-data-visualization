@@ -2,7 +2,9 @@
 ### An Operations and Marketing Analysis of Olist - Brazil’s leading ecommerce player  
 
 **Study Group:** Group 8
+
 **Course:** AM10 Final Group Project - Poster Presentation  
+
 **Date:** 16th November 2025
 
 ---
