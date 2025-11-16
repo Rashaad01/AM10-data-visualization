@@ -32,6 +32,8 @@ In a meeting with the CEO, we aligned to explore the following questions:
    
 3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer geographies and reviews. A **cluster analysis** was conducted to understand customer repeat purchasing habits.
 
+*Data Source:* The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
+
 ## PROJECT FILES
 
 ## KEY FINDINGS
@@ -61,4 +63,3 @@ cd AM10-data-visualization
 jupyter notebook
 '''
 
-Data Source: The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
