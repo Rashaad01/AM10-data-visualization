@@ -33,7 +33,7 @@ In a meeting with the CEO, we aligned to explore the following questions:
 3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer geographies and reviews. A **cluster analysis** was conducted to understand customer repeat purchasing habits.
 
 ## PROJECT FILES
-   
+
 ## KEY FINDINGS
 
 1) Logistics problem, and not product quality is the primary driver of negative customer experiences​. However, this problem is not uniform across all cities. Hence, we can ensure a targeted, regional intervention in high-priority cities​.
@@ -54,11 +54,11 @@ We made key recommendations across the three key areas:
 3) Plaform Ease of Use: Olist must re-create a more intuitive category hierarchy to ease navigation.​ Additionally, delivery and product
 reviews to improve clarity on true product quality.
 
-Data Source: The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
-
 ## FOR FULL ANALYSIS
 ```bash
 git clone https://github.com/Rashaad01/AM10-data-visualization.git
 cd AM10-data-visualization
 jupyter notebook
 
+
+Data Source: The data for this analysis is the **[Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)**.
