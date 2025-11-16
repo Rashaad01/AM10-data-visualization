@@ -36,6 +36,10 @@ In a meeting with the CEO, we aligned to explore the following questions:
 
 ## PROJECT FILES
 
+- `AM10_visualization_group8.ipynb` — Notebook with all visualizations for storytelling analysis.
+- `e-commerce.db` — A cleaned dataset sourced from Kaggle.
+
+
 ## KEY FINDINGS
 
 1) Logistics problem, and not product quality is the primary driver of negative customer experiences​. However, this problem is not uniform across all cities. Hence, we can ensure a targeted, regional intervention in high-priority cities​.
