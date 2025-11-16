@@ -26,10 +26,11 @@ In a meeting with the CEO, the following project objectives were defined:
    
 2) During our data exploration, we discovered that order volumes had stagnated, accompanied by an increase in negative customer reviews. This prompted a deeper analysis of all reviews, using a **word cloud** and a **proportional review assessment** (delivery-related vs. product-related reviews). We also employed **bar charts** and a **bubble chat** to examine customer repeat-purchase behavior, focusing on top product categories, preferred payment methods, and installment options.
 
-3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer and seller geographies.
+3) Finally, we skewed down to a root cause analysis of logistical problems by considering them in light of all customer geographies and reviews. A **cluster analysis** was conducted to understand customer repeat purchasing habits.
    
 ## KEY FINDINGS
-
+​1) Logistics problem, and not product quality is the primary driver of negative customer experiences​. However, this problem is not uniform across all cities. Hence, we can ensure a targeted, regional intervention in high-priority cities​
+2) Repeat purchases are extremely rare on Olist - but the few repeat customers come from home appliances, furniture and bedroom necessities.
 
 
 ## CONCLUSION
