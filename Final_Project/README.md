@@ -42,7 +42,11 @@ In a meeting with the CEO, the following project objectives were defined:
 ## RECOMMENDATIONS
 We made key recommendations across the three key areas:
 
-1) Service Delivery and Customer Satisfaction: Olist must focus on tailored delivery services for Rio de Janeiro and other low delivery performance areas.
-2) 
+1) Service Delivery and Customer Satisfaction: Olist must focus on tailored delivery services for Rio de Janeiro and other low delivery performance areas. Given the instrumentality of health & beauty products in driving revenue, Olist must provide a priority delivery service for that cateogry.
+   
+2) Customer Purchase Behavior: Olist must invest in categories with high repeat purchase rate but low penetration while encouraging vouchers and cross-category recommendations to incentivise repeat purchases.​
+
+3) Plaform Ease of Use: Olist must re-create a more intuitive category hierarchy to ease navigation.​ Additionally, delivery and product
+reviews to improve clarity on true product quality.
 
 
